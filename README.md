@@ -4,4 +4,4 @@ This is a consolidated repository for all my projects on Data Analysis and Machi
 
 1. [Housing Price Data Analysis](https://github.com/abhi094/Kaggle-Competitions/tree/master/Housing%20Prices%20Prediction)
 2. Neural Networks form scratch 
-3. 
+3. [Digit Recognizer](https://github.com/abhi094/Kaggle-Competitions/tree/master/Digit%20Recognizer)
