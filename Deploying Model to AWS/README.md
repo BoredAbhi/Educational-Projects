@@ -1,6 +1,6 @@
 # Deploy a ML model to AWS EC2
 
-Deploying a Machine Learning model to EC2 nd accessing it as a webserice using [flask](https://palletsprojects.com/p/flask/) and [docker](https://www.docker.com/).
+Deploying a Machine Learning model to EC2 and accessing it as a webservice using [flask](https://palletsprojects.com/p/flask/) and [docker](https://www.docker.com/).
 
 ## Getting Started
 
